@@ -1,46 +1,36 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Owen Siu",
+    "occupation": "Software Engineer",
+    "description": "Passionate about software development, building new products with cutting-edge technologies.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Owen! A full stack developer who love React, Node.js, GraphQL and MongoDB!",
+    "contactmessage": "Get in touch with me if you have got a great job opportunity!",
+    "email": "owensiu1002@gmail.com",
+    "phone": "+852 68434007",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.linkedin.com/in/ming-ngai-owen-siu-a26012133/",
+    "resumedownload": "https://drive.google.com/file/d/1FdpcDp6kY0AY5ZgoYgAgrr7ssfjjrfow/view?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
+        "name": "Medium",
+        "url": "https://medium.com/@owensiu",
+        "className": "bi bi-medium"
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
+        "name": "Github",
+        "url": "https://github.com/owen1002",
+        "className": "bi bi-github"
       },
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/ming-ngai-owen-siu-a26012133/",
+        "className": "bi bi-linkedin"
       }
     ]
   },
@@ -48,75 +38,104 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
+        "school": "Hong Kong University of Science and Technology",
+        "degree": "Bachelor's Degree, Computer Engineering",
         "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "CLSA Ltd.",
+        "title": "Software Engineer",
+        "years": "Oct 2021 to Present",
+        "descriptions": [
+          "Frontend development on Client Management System from scratch.",
+          "Use ReactJS with Material-UI & Next.js to perform POC.",
+          "Perform application deployment through Docker."
+        ]
+      },
+      {
+        "company": "FWD Life Insurance Company (Bermuda) Limited",
+        "title": "System analyst",
+        "years": "Jan 2021 to Sep 2021",
+        "descriptions": [
+          "Backend development on e-commerce platforms from scratch.",
+          "Use Node.js, NestJs, Express.js, Mongoose, MongoDB Atlas to build backend microservice and databases.",
+          "Setup GraphQL federation and GraphQL gateway for api connection. Setup test cases to ensure service availability.",
+          "Perform code review and refactor code to ensure code quality and maintainability.",
+          "Use Git and AWS code commit with SourceTree/Fork to perform version control.",
+          "Perform application deployment through jenkins, k8s to AWS EKS. Use datadog to monitor and analyze logs for debugging/system enhancement purposes.",
+          "Collaborate with team leads and scrum master to perform an agile development process. (e.g. Sprint planning, Retrospective meeting) Perform R&D to reduce risk on technical approach."
+        ]
+      },
+      {
+        "company": "AVA Intelligent Partners Limited",
+        "title": "Senior Programmer",
+        "years": "June 2018 to Dec 2020",
+        "descriptions": [
+          "Full-stack development on Internal System(ERP) and ESG Report Generator from scratch.",
+          "Use .NetCore to perform Spreadsheet summary Report Generating. Use ReactJS with Material UI for frontend development.",
+          "Use Graphql, React Apollo to connect API to the server side.",
+          "Use Node.js, NestJS, Prisma, MongoDB/PostgreSQL to build the backend server and database.",
+          "Use Git with SourceTree/Fork to perform version control.",
+          "Use Docker as the container to host the application.",
+          "Perform SEO analysis to improve search ranking.",
+          "Prepare proposals for government funding.",
+          "Communicate with clients to solve issues."
+        ]
+      },
+      {
+        "company": "Lucky Technology Ltd.",
+        "title": "Programmer",
+        "years": "Aug 2016 to June 2018",
+        "descriptions": [
+          "Full-stack development on web applications. Use AngularJS with Angular Material for frontend development.",
+          "Use Restangular to connect API to the server side.",
+          "Use C#, Node.js and SQLite to build the web server and database.",
+          "Use Git with SourceTree to perform version control.",
+          "Communicate with clients to solve issues. Host booth in HKCEC to introduce products."
+        ]
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Node.js",
+        "level": "85%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "GraphQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "65%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Solana-DEV NFT",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "solana.png",
+        "url": "https://solana-nft-drop-starter-project.vercel.app/"
       }
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
-      }
-    ]
+    "testimonials": []
   }
 }
