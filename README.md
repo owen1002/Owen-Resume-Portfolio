@@ -1,6 +1,6 @@
 # Owen's Resume cloned from PAPA React JS Resume Starter Pack and Digital Portfolio
 
-### <a href="https://app.netlify.com/sites/determined-hugle-ce52de/deploys">Link/a>
+### <a href="https://app.netlify.com/sites/determined-hugle-ce52de/deploys">Link</a>
 
 ## Next Plan
 Update the portfolio using nextjs + tailwindcss
