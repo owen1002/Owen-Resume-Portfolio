@@ -1,4 +1,4 @@
-# Owen's Resume cloned from PAPA React JS Resume Starter Pack and Digital Portfolio
+# Owen's Resume forked from PAPA React JS Resume Starter Pack and Digital Portfolio
 
 ### <a href="https://determined-hugle-ce52de.netlify.app/">Link</a>
 
