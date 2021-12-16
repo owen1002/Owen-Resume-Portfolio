@@ -132,6 +132,12 @@
         "category": "",
         "image": "solana.png",
         "url": "https://solana-nft-drop-starter-project.vercel.app/"
+      },
+      {
+        "title": "Owen Metaverse",
+        "category": "",
+        "image": "metaverse.png",
+        "url": "https://owen-metaverse.vercel.app/"
       }
     ]
   },
