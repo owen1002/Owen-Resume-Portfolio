@@ -46,9 +46,18 @@
     ],
     "work": [
       {
+        "company": "Morgan Stanley",
+        "title": "Prime Brokerage Tooling Strategist",
+        "years": "Mar 2022 to Present",
+        "descriptions": [
+          "Migrating front office tools to ReactJS + dotnetcore",
+          "Use ReactJS with Redux Toolkit + ant design + tailwindcss to build frontend webapp"
+        ]
+      },
+      {
         "company": "CLSA Ltd.",
         "title": "Software Engineer",
-        "years": "Oct 2021 to Present",
+        "years": "Oct 2021 to Feb 2022",
         "descriptions": [
           "Frontend development on Client Management System from scratch.",
           "Use ReactJS with Material-UI & Next.js to perform POC.",
@@ -88,7 +97,7 @@
       {
         "company": "Lucky Technology Ltd.",
         "title": "Programmer",
-        "years": "Aug 2016 to June 2018",
+        "years": "Aug 2016 to May 2018",
         "descriptions": [
           "Full-stack development on web applications. Use AngularJS with Angular Material for frontend development.",
           "Use Restangular to connect API to the server side.",
@@ -102,6 +111,10 @@
       {
         "name": "ReactJs",
         "level": "85%"
+      },
+      {
+        "name": "Redux Toolkit",
+        "level": "80%"
       },
       {
         "name": "Node.js",
